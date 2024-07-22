@@ -1,0 +1,2 @@
+# nest_children_and_elderly
+基于SpringBoot+Vue的关爱留守儿童和空巢老人平台，实现了用户管理、关爱信息管理、爱心服务管理等关键功能模块。
