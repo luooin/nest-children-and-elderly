@@ -36,6 +36,7 @@ node_modules/
 # Ignore logs and other runtime files
 logs/
 tmp/
+target/
 *.log
 # Ignore test data
 test-data/
